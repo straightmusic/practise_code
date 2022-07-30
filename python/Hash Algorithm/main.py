@@ -37,3 +37,5 @@ if __name__ == '__main__':
 
     imgName2Pic['test.jpg'].show()
     imgName2Pic[ans].show()
+
+# 參考資料: https://zx7978123.medium.com/%E5%9C%96%E5%83%8F%E7%9B%B8%E4%BC%BC%E5%BA%A6%E7%AE%97%E6%B3%95-google%E4%BB%A5%E5%9C%96%E6%90%9C%E5%9C%96-2-bde3d8c9568d
